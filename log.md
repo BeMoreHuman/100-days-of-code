@@ -10,3 +10,22 @@
 - No two pairs with identical values are allowed.
 
 **Link to work:** [Mahjong-like-game](https://github.com/BeMoreHuman/Mahjong-like-game)
+
+### Day 1: January 3, 2020
+
+**Today's Progress**: Worked on Mahjong-like-game app.
+
+**Achievements:**
+- implemented main UI & logic for the game
+- created github pages for the game
+
+**Link to game:** [Mahjong-like-game](https://bemorehuman.github.io/Mahjong-like-game/index.html)
+
+### Day 2: January 4, 2020
+
+**Today's Goals**: Worked on Javascripton2020 by htmlacademy.
+
+**Achievements:**
+- flexbox
+- loops in js
+- css selectors
