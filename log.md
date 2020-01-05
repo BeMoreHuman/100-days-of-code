@@ -29,3 +29,12 @@
 - flexbox
 - loops in js
 - css selectors
+
+### Day 3: January 5, 2020
+
+**Today's Goals**: Continue Javascripton2020 by htmlacademy.
+
+**Achievements:**
+- flexbox 2nd part
+- arrays in js
+- css linear gradient
