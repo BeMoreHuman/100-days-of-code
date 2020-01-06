@@ -38,3 +38,10 @@
 - flexbox 2nd part
 - arrays in js
 - css linear gradient
+
+### Day 4: January 6, 2020
+
+**Today's Goals**: Try some of methods for create transitions between html pages.
+
+**Thoughts:**
+- Practice with GSAP, js destructuring, highway.js
