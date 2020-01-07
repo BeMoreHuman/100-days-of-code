@@ -45,3 +45,12 @@
 
 **Thoughts:**
 - Practice with GSAP, js destructuring, highway.js
+
+### Day 5: January 7, 2020
+
+**Today's Goals**: Сreate transitions between html pages.
+
+**Thoughts:**
+- Need to practice with new version of GSAP(v.3)
+
+**Link to work:** [smooth-page-transitions](https://github.com/BeMoreHuman/smooth-page-transitions)
