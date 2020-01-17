@@ -54,3 +54,13 @@
 - Need to practice with new version of GSAP(v.3)
 
 **Link to work:** [smooth-page-transitions](https://github.com/BeMoreHuman/smooth-page-transitions)
+- Practice with GSAP, js destructuring, highway.js
+
+### Day 6: January 17, 2020
+
+**Today's Goals**: Сreate simple todo-list only on html/css/js.
+
+**Thoughts:**
+- Need to practice with classes & OOP in js
+
+**Link to work:** [simple-todo-list](https://github.com/BeMoreHuman/simple-todo-list)
